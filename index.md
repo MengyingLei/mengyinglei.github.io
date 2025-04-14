@@ -6,7 +6,7 @@ layout: default
 <a id="about-me"></a>
 Hi! This is Mengying Lei. I am a postdoc at McGill. 
 
-My research interests include spatiotemporal modeling, Bayesian inference, and machine learning.
+My research interests lie in spatiotemporal modeling, Bayesian inference, and machine learning.
 
 ------------
 
