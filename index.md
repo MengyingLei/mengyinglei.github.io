@@ -27,4 +27,4 @@ Postdoc, HEC Montréal \
 
 Ph.D., McGill \
 2019.09 - 2024.01 \
-Supervisors: Prof. [Lijun Sun](https://lijunsun.github.io/), Prof. [Aurélie Labbe](https://www.hec.ca/en/profs/aurelie.labbe.html)
+Supervisors: Prof. [Lijun Sun](https://lijunsun.github.io/) (main), with Prof. [Aurélie Labbe](https://www.hec.ca/en/profs/aurelie.labbe.html)
