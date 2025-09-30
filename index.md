@@ -12,12 +12,12 @@ Email: [mengying.lei@mcgill.ca](mailto:mengying.lei@mcgill.ca)
 ------------
 
 ## Experience
-Postdoc, McGill<br>
+Postdoc, McGill  
 2024.01 - Present
 
-Postdoc, HEC Montréal<br>
+Postdoc, HEC Montréal  
 2024.01 - 2024.08
 
-Ph.D., McGill<br>
-2019.09 - 2024.01<br>
+Ph.D., McGill  
+2019.09 - 2024.01  
 Supervisors: Prof. [Lijun Sun](https://lijunsun.github.io/) (main), with Prof. [Aurélie Labbe](https://www.hec.ca/en/profs/aurelie.labbe.html)
