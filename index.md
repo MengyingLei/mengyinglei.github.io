@@ -4,12 +4,12 @@ My research interests lie in spatiotemporal modeling, Bayesian inference, and ma
 
 Email: [mengying.lei@mcgill.ca](mailto:mengying.lei@mcgill.ca)
 
-------------
+<div style="margin-top: 2em;"></div>
 
 ## Publications
 [Google Scholar (by date)](https://scholar.google.com/citations?hl=en&user=vWdutQIAAAAJ&view_op=list_works&sortby=pubdate)
 
-------------
+<div style="margin-top: 2em;"></div>
 
 ## Experience
 Postdoc, McGill  
