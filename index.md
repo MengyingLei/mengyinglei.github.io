@@ -2,7 +2,7 @@ This is Mengying Lei. I am a postdoc at McGill.
 
 My research interests lie in spatiotemporal modeling, Bayesian inference, and machine learning.
 
-Email: [mengying.lei@mcgill.ca](mailto:mengying.lei@mcgill.ca)
+Email: [mengying.lei@mail.mcgill.ca](mailto:mengying.lei@mail.mcgill.ca)
 
 <div style="margin-top: 2em;"></div>
 
