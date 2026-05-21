@@ -1,4 +1,4 @@
-This is Mengying Lei. I am a postdoc at McGill.
+This is Mengying Lei. I am a postdoc at McGill and PolyMtl.
 
 My research interests lie in spatiotemporal modeling, Bayesian inference, and machine learning.
 
@@ -14,6 +14,9 @@ Email: [mengying.lei@mail.mcgill.ca](mailto:mengying.lei@mail.mcgill.ca)
 ## Experience
 Postdoc, McGill  
 2024.01 - Present
+
+Postdoc, Polytechnique Montréal  
+2026.02 - Present
 
 Postdoc, HEC Montréal  
 2024.01 - 2024.08
